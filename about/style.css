@@ -1,22 +1,17 @@
-
-#content{
+#content-text{
     background-color: white;
     border-radius: 30px;
-    height: 2000px;
-    margin-left: 20%;
-    margin-right: 20%;
-}
+    margin-left: 5%;
+    margin-right: 5%;
+  }
 
-#content h1{
+#content-text p{
     background-color: white;
-    font-size: 50px;
-    text-align: center;
+    border: 5px solid black;
 }
 
+#content-text h2{
+    background-color: white;
+    font-size: 30px;
 
-
-
-
-
-
-
+}
