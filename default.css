@@ -1,6 +1,6 @@
 *{
-    background-color: #228B22;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #85DCBA;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .topnav {
@@ -27,13 +27,13 @@
 
   
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: #41B3A3;
     color: black;
     border-radius: 15px;
 }
   
 .topnav a.active {
-    background-color: #1a661a;
+    background-color: #41B3A3;
     color: white;
 }
 
@@ -63,7 +63,7 @@
     margin-bottom: 100px;
     padding:40px 0;
     color:#4b4c4d;
-    background-color: #45af45;
+    background-color: #41B3A3;
     border-radius: 0 0 30px 30px;
     
   }
@@ -74,20 +74,20 @@
     text-align:center;
     font-size:30px;
     line-height:1.6;
-    background-color: #45af45;
+    background-color: #41B3A3;
   }
   
   .footer-basic li {
     padding:0 10px;
     display: inline-block;
-    background-color: #45af45;
+    background-color: #41B3A3;
   }
   
   .footer-basic ul a {
     color:rgb(81, 81, 81);
     text-decoration:none;
     opacity:0.7;
-    background-color: #45af45;
+    background-color: #41B3A3;
   }
   
   .footer-basic ul a:hover {
@@ -97,7 +97,7 @@
   .footer-basic .social {
     text-align:center;
     padding-bottom:5px;
-    background-color: #45af45;
+    background-color: #41B3A3;
   }
   
   .footer-basic .social > a > img{
@@ -106,11 +106,11 @@
     display:inline-block;
     text-align:center;
     opacity:0.75;
-    background-color: #45af45;
+    background-color: #41B3A3;
   }
 
   .footer-basic .social > a{
-    background-color: #45af45;
+    background-color: #41B3A3;
     margin: 0 50px;  
   
   }
@@ -123,9 +123,9 @@
     margin-top:15px;
     text-align:center;
     font-size:20px;
-    color:#bdbdbd;
+    color:#E27D60;
     margin-bottom:0;
-    background-color: #45af45;
+    background-color: #41B3A3;
   }
 
 
