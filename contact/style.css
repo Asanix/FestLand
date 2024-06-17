@@ -1,0 +1,8 @@
+input, textarea, button{
+    margin: 4px 0;
+    padding: 8px;
+}
+
+#content #mail{
+    display: inline-block;
+}
